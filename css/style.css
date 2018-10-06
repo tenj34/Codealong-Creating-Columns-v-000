@@ -101,7 +101,7 @@ figcaption {
   clear: both;
   visibility: hidden;
   height: 0;
-  line
+  line-heigh: 0;
 }
 
 [class*="col-"]{
