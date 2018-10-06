@@ -72,7 +72,7 @@ figcaption {
 }
 /*////// Media /////*/
   img, video,audio {
-    max-width: 100%
+    max-width: 100%;
   }
 
 /* ///// LAYOUT /////*/
