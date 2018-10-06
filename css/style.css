@@ -89,10 +89,12 @@ figcaption {
   float: left;
   width: 66%;
   background-color: #eee;
-
-
 }
 
 .col-3 {
   background-color: #eee;
+}
+
+[class*="col-"]{
+  margin-left: 2%
 }
