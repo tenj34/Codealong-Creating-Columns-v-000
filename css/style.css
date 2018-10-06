@@ -95,6 +95,11 @@ figcaption {
   background-color: #eee;
 }
 
+.clearfix::after{
+  content: ".";
+  diplay: block
+}
+
 [class*="col-"]{
   margin-left: 2%;
 }
